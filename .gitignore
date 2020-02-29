@@ -1,4 +1,5 @@
 .vscode/
 build/
 dist/
-*.egg
+tmp/
+*.egg-info

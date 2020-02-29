@@ -104,7 +104,7 @@ ext_modules = [
 
 
 setup(
-    name='cramppet',
+    name='pyvfc',
     version=__version__,
     author='Peter Crampton',
     author_email='cramppet@protonmail.com',
