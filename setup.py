@@ -112,8 +112,8 @@ setup(
     description='Vector field consensus (VFC) Python wrapper',
     long_description='',
     ext_modules=ext_modules,
-    install_requires=['pybind11>=2.4', 'opencv-python'],
-    setup_requires=['pybind11>=2.4', 'opencv-python'],
+    install_requires=['pybind11>=2.4', 'opencv-python==3.4.9.31'],
+    setup_requires=['pybind11>=2.4', 'opencv-python==3.4.9.31'],
     cmdclass={'build_ext': BuildExt},
     zip_safe=False,
     classifiers=[

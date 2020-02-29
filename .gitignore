@@ -1,5 +1,7 @@
 .vscode/
+.eggs/
 build/
 dist/
 tmp/
+wheelhouse/
 *.egg-info
